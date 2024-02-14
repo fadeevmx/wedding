@@ -1,0 +1,189 @@
+@media screen and (max-width: 1200px) {
+    .girl1, .men1 {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+.info_title {
+    font-size: 60px;
+}
+    .info-text {
+        font-size: 25px;
+    }
+
+    .registration_title {
+        font-size: 60px;
+    }
+    .registration-text {
+        font-size: 25px;
+    }
+
+    .banquet_title {
+        font-size: 60px;
+    }
+    .banquet-text {
+        font-size: 25px;
+    }
+
+    .program_title {
+        font-size: 60px;
+    }
+    .program-text {
+        font-size: 25px;
+    }
+
+    .transfer_title {
+        font-size: 60px;
+    }
+    .transfer-text {
+        font-size: 25px;
+    }
+
+    .continuation_title {
+        font-size: 60px;
+    }
+    .continuation-text {
+        font-size: 25px;
+    }
+
+    .dress-code_title {
+        font-size: 60px;
+    }
+    .dress-code-text {
+        font-size: 25px;
+    }
+
+    .present_title {
+        font-size: 60px;
+    }
+    .present-text {
+        font-size: 25px;
+    }
+
+    .form_title {
+        font-size: 60px;
+    }
+    .form-texts {
+        font-size: 25px;
+    }
+
+    .finish_title {
+        font-size: 60px;
+    }
+    .finish-text {
+        font-size: 25px;
+    }
+
+    .registration_map {
+        display: none;
+    }
+
+    .registration-img img {
+        width: 80%;
+    }
+
+    .banquet_map {
+        display: none;
+    }
+
+    .banquet-img img {
+        width: 80%;
+    }
+
+    .continuation-image img {
+        width: 80%;
+    }
+
+    .continuation-image_two {
+        display: none;
+    }
+
+    .present-image img {
+        width: 80%;
+    }
+
+
+
+}
+
+@media screen and (max-width: 841px) {
+    .transfer-timetable table tr {
+        display: flex;
+        justify-content: space-between;
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 478px) {
+    .info_title {
+        font-size: 50px;
+    }
+    .info-text {
+        font-size: 20px;
+    }
+
+    .registration_title {
+        font-size: 50px;
+    }
+    .registration-text {
+        font-size: 20px;
+    }
+
+    .banquet_title {
+        font-size: 50px;
+    }
+    .banquet-text {
+        font-size: 20px;
+    }
+
+    .program_title {
+        font-size: 50px;
+    }
+    .program-text {
+        font-size: 20px;
+    }
+
+    .transfer_title {
+        font-size: 50px;
+    }
+    .transfer-text {
+        font-size: 20px;
+    }
+
+    .continuation_title {
+        font-size: 50px;
+    }
+    .continuation-text {
+        font-size: 20px;
+    }
+
+    .dress-code_title {
+        font-size: 50px;
+    }
+    .dress-code-text {
+        font-size: 20px;
+    }
+
+    .present_title {
+        font-size: 50px;
+    }
+    .present-text {
+        font-size: 20px;
+    }
+
+    .form_title {
+        font-size: 50px;
+    }
+    .form-texts {
+        font-size: 20px;
+    }
+
+    .finish_title {
+        font-size: 50px;
+    }
+    .finish-text {
+        font-size: 20px;
+    }
+}

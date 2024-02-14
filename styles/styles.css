@@ -1,0 +1,390 @@
+.main_wedding img {
+    image-rendering: optimizeSpeed;
+    width: 100%;
+}
+
+html {
+background-color: #f9f8f4;
+}
+
+.wed {
+    background-color: #f9f8f4;
+}
+
+@font-face {
+    font-family: CambriaBold;
+    src: url("../fonts/Gilroy-Bold.woff");
+}
+
+@font-face {
+    font-family: GiloryMedium;
+    src: url("../fonts/Gilroy-Medium.woff");
+}
+
+@font-face {
+    font-family: Brushboy;
+    src: url("../fonts/ofont.ru_Brushboy.ttf");
+}
+
+@font-face {
+    font-family: Czizh;
+    src: url("../fonts/ofont.ru_Czizh.ttf");
+}
+
+.info_title {
+    margin-top: 60px;
+    font-size: 80px;
+    font-family: Czizh, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.info-text {
+    margin-top: 50px;
+    font-family: Czizh, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.registration_title {
+    margin-top: 60px;
+    font-size: 80px;
+    font-family: Czizh, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.registration-text {
+    margin-top: 50px;
+    font-family: Czizh, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.line {
+    border-bottom: 2px solid black;
+    width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+
+}
+
+span {
+    font-weight: bold;
+}
+
+.registration-img {
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.registration-img img {
+    width:50%;
+    height: 50%;
+    display: flex;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.registration_map {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+
+
+}
+
+
+
+.banquet_title {
+    margin-top: 60px;
+    font-size: 80px;
+    font-family: Czizh, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.banquet-text {
+    margin-top: 50px;
+    font-family: Czizh, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.banquet-img {
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.banquet-img img {
+    width:50%;
+    height: 50%;
+    display: flex;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.banquet_map {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+
+}
+
+.program_title {
+    margin-top: 60px;
+    font-size: 80px;
+    font-family: Czizh, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.program-text {
+    margin-top: 50px;
+    font-family: Czizh, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+
+.transfer_title {
+    margin-top: 60px;
+    font-size: 80px;
+    font-family: Czizh, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.transfer-text {
+    margin-top: 50px;
+    font-family: Czizh, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.transfer-timetable {
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.continuation_title {
+    margin-top: 60px;
+    font-size: 80px;
+    font-family: Czizh, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.continuation-text {
+    margin-top: 50px;
+    font-family: Czizh, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.continuation-image {
+    display: flex;
+    justify-content: center;
+}
+
+.continuation-image img {
+    width:45%;
+    height: 45%;
+    margin-top: 40px;
+}
+
+.continuation-image_one {
+    margin-right: 10px;
+}
+
+.continuation-image_two {
+    margin-left: 10px;
+}
+
+.dress-code_title {
+    margin-top: 60px;
+    font-size: 80px;
+    font-family: Czizh, sans-serif;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.dress-code-text {
+    margin-top: 50px;
+    font-family: Czizh, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.girl1, .men1 {
+    width:70%;
+    margin-right: 10px;
+}
+
+.girl-dress {
+    display: flex;
+    justify-content: center;
+}
+
+.present_title {
+    margin-top: 60px;
+    font-size: 80px;
+    font-family: Czizh, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.present-text {
+    margin-top: 50px;
+    font-family: Czizh, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.present-image {
+    display: flex;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.present-image img {
+    width:40%;
+    height: 40%;
+    display: flex;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+.form_title {
+    margin-top: 60px;
+    font-size: 80px;
+    font-family: Czizh, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.form-texts {
+    margin-top: 45px;
+    font-family: Czizh, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-alls {
+display: flex;
+    justify-content: center;
+width: 80%;
+
+}
+
+.finish-text {
+    margin-top: 45px;
+    font-family: Czizh, sans-serif;
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.finish_title {
+    margin-top: 60px;
+    font-size: 60px;
+    font-family: Czizh, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.line2 {
+    border-bottom: 2px solid black;
+    width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    margin-bottom: 30px;
+}
+
+.form-content-data {
+    margin-top: 42px;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.form-content-data-text {
+    font-size: 16px;
+    line-height: 27px;
+    margin-top: 20px;
+}
+
+.form-content-data-input {
+    border: none;
+    border-bottom: 1px solid #C6C6C4;
+    background-color: transparent;
+    color: inherit;
+    outline: none;
+    margin-right: 80px;
+    padding: 5px 50px;
+}
+
+.input-name {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.new-button {
+    width: 100%;
+    height: 100%;
+}
+
+.accordion-button {
+    font-family: Czizh, sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-size: 25px;
+}
+
+.accordion-body {
+    font-size: 20px;
+}
+
+.footer {
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: inherit;
+    color: gray;
+    font-family: GiloryMedium, sans-serif;
+}
+
+.table {
+    font-family: GiloryMedium, sans-serif;
+}
+
+.accordion-body {
+    font-family: GiloryMedium, sans-serif;
+}
+
+.input-name {
+    font-family: GiloryMedium, sans-serif;
+    font-weight: bold;
+}
+
+.new-button {
+    font-family: GiloryMedium, sans-serif;
+}
+
